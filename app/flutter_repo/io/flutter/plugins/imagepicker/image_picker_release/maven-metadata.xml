@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.flutter.plugins.imagepicker</groupId>
+  <artifactId>image_picker_release</artifactId>
+  <versioning>
+    <release>1.0</release>
+    <versions>
+      <version>1.0</version>
+    </versions>
+    <lastUpdated>20200405161511</lastUpdated>
+  </versioning>
+</metadata>
